@@ -4,6 +4,11 @@
 All notable changes to this project will be documented in this file.
 <!--- END HEADER -->
 
+## [0.1.0](https://github.com/mauijay/CADnm/compare/v0.0.3...v0.1.0) (2025-01-03)
+
+
+---
+
 ## [0.0.3](https://github.com/mauijay/CADnm/compare/v0.0.2...v0.0.3) (2025-01-03)
 
 
