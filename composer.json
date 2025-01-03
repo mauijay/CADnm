@@ -11,5 +11,13 @@
     "minimum-stability": "dev",
     "require-dev": {
         "marcocesarato/php-conventional-changelog": "dev-main"
-    }
+    },
+    "scripts": {
+        "changelog": "conventional-changelog",
+        "release": "conventional-changelog --commit",
+        "release:patch": "conventional-changelog --patch --commit",
+        "release:minor": "conventional-changelog --minor --commit",
+        "release:major": "conventional-changelog --major --commit"
+    },
+    "version": "0.0.1"
 }
