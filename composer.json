@@ -1,0 +1,15 @@
+{
+    "name": "mauijay/cadnm",
+    "description": "test some stuffs",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "marcocesarato/php-conventional-changelog": "dev-main"
+    }
+}
